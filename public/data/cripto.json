@@ -1,0 +1,127 @@
+{
+  "ticker": [
+    { "symbol": "BTC", "name": "Bitcoin", "price": "67,420.50", "change": "+2.34%" },
+    { "symbol": "ETH", "name": "Ethereum", "price": "3,521.18", "change": "+1.87%" },
+    { "symbol": "USDT", "name": "Tether", "price": "1.00", "change": "0.00%" },
+    { "symbol": "BNB", "name": "BNB", "price": "598.44", "change": "-0.52%" },
+    { "symbol": "SOL", "name": "Solana", "price": "178.92", "change": "+4.11%" },
+    { "symbol": "XRP", "name": "XRP", "price": "0.5821", "change": "-1.23%" }
+  ],
+  "secciones": [
+    {
+      "id": "que-son",
+      "titulo": "¿Qué son los Criptoactivos?",
+      "icono": "₿",
+      "color": "#F7931A",
+      "descripcion": "Los criptoactivos son activos digitales privados que dependen principalmente de la criptografía y de la tecnología de registro distribuido (blockchain) o similar.",
+      "puntos": [
+        "Son 100% digitales, no tienen forma física",
+        "Usan criptografía para garantizar seguridad",
+        "Se registran en una blockchain descentralizada",
+        "No los emite ni respalda ningún gobierno",
+        "Su valor lo determina el mercado libremente"
+      ],
+      "audio": "/audio/que-son.mp3",
+      "fuente": "Banco de Pagos Internacionales (BIS)"
+    },
+    {
+      "id": "son-ilegales",
+      "titulo": "¿Son Ilegales?",
+      "color": "#00D4AA",
+      "descripcion": "Los criptoactivos en sí mismos no son ilegales. Lo que puede ser ilegal es el uso que se haga de ellos.",
+      "puntos": [
+        " Comprar y vender cripto es legal",
+        " Guardar cripto en una wallet es legal",
+        " Usarlos como medio de pago voluntario es legal",
+        " Evadir impuestos con cripto es ilegal",
+        " Usarlos para lavar dinero es ilegal",
+        " Esquemas ponzi con cripto son ilegales"
+      ],
+      "audio": "/audio/son-ilegales.mp3",
+      "fuente": "Superintendencia Financiera de Colombia (SFC)"
+    },
+    {
+      "id": "riesgos",
+      "titulo": "Principales Riesgos",
+      "color": "#FF4757",
+      "descripcion": "Antes de invertir en criptoactivos, es fundamental conocer los riesgos que implican.",
+      "riesgos": [
+        {
+          "titulo": "Hackeo de Wallets",
+          "desc": "Las billeteras digitales pueden ser robadas si no se protegen adecuadamente."
+        },
+        {
+          "titulo": "Alta Volatilidad",
+          "desc": "El precio puede subir o bajar un 50% o más en cuestión de horas."
+        },
+        {
+          "titulo": "Sin Regulación Formal",
+          "desc": "En la mayoría de países no existe un ente oficial que los regule o supervise."
+        },
+        {
+          "titulo": "Estafas y Fraudes",
+          "desc": "Abundan esquemas fraudulentos que prometen ganancias irreales."
+        },
+        {
+          "titulo": "Jurisdicción Múltiple",
+          "desc": "Las plataformas pueden estar en distintos países, escapando a las leyes locales."
+        }
+      ],
+      "audio": "/audio/riesgos.mp3",
+      "fuente": "Superintendencia Financiera de Colombia (SFC)"
+    },
+    {
+      "id": "recomendaciones",
+      "titulo": "Recomendaciones Clave",
+      "color": "#00D4AA",
+      "descripcion": "Si decidís invertir en criptoactivos, seguí estas buenas prácticas para proteger tu patrimonio.",
+      "checklist": [
+        "Investigá a fondo el criptoactivo antes de comprar",
+        "Usá solo plataformas reconocidas con buenas reseñas",
+        "Nunca inviertas más de lo que estás dispuesto a perder",
+        "Activá autenticación de dos factores en tu cuenta",
+        "Guardá tus claves privadas fuera de la plataforma",
+        "Diversificá, no pongas todo en un solo activo",
+        "Desconfiá de promesas de ganancias garantizadas",
+        "Consultá con un asesor financiero si tenés dudas"
+      ],
+      "audio": "/audio/recomendaciones.mp3",
+      "fuente": "Buenas prácticas internacionales de seguridad cripto"
+    },
+    {
+      "id": "como-funciona",
+      "titulo": "¿Cómo Funciona el Blockchain?",
+      "color": "#F7931A",
+      "descripcion": "El blockchain es la tecnología subyacente que hace posibles los criptoactivos. Funciona como un libro de contabilidad distribuido e inmutable.",
+      "pasos": [
+        {
+          "num": "01",
+          "titulo": "Transacción iniciada",
+          "desc": "Un usuario solicita enviar criptoactivos a otro. La transacción se transmite a la red de nodos."
+        },
+        {
+          "num": "02",
+          "titulo": "Validación por nodos",
+          "desc": "Miles de computadoras verifican que la transacción sea válida y el usuario tenga fondos suficientes."
+        },
+        {
+          "num": "03",
+          "titulo": "Creación del bloque",
+          "desc": "La transacción validada se agrupa con otras en un nuevo bloque con un sello de tiempo único."
+        },
+        {
+          "num": "04",
+          "titulo": "Añadido a la cadena",
+          "desc": "El nuevo bloque se une permanentemente a la cadena. Este registro es inmutable, nadie puede alterarlo."
+        },
+        {
+          "num": "05",
+          "titulo": "Transacción completada",
+          "desc": "El destinatario recibe los fondos. El proceso puede tardar desde segundos hasta minutos."
+        }
+      ],
+      "audio": "/audio/como-funciona.mp3",
+      "fuente": "Satoshi Nakamoto, Bitcoin Whitepaper (2008)"
+    }
+  ]
+}
