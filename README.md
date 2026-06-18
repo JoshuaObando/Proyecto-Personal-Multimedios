@@ -24,9 +24,9 @@ npm run dev
 
 ## Capturas de pantalla
 
-![Hero](screenshots/screenshot-1.png)
-![Secciones](screenshots/screenshot-2.png)
-![Detalle](screenshots/screenshot-3.png)
+![Hero](screenshots/Screenshot-1.png)
+![Secciones](screenshots/Screenshot-2.png)
+![Detalle](screenshots/Screenshot-3.png)
 
 ## Autor
 Joshua Obando Gonzalez · Informática Empresarial · UCR · I Ciclo 2026
