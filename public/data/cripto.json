@@ -21,7 +21,7 @@
         "No los emite ni respalda ningún gobierno",
         "Su valor lo determina el mercado libremente"
       ],
-      "audio": "/audio/que-son.mp3",
+      "audio": "/audio/que-son.mp4",
       "fuente": "Banco de Pagos Internacionales (BIS)"
     },
     {
@@ -37,7 +37,7 @@
         " Usarlos para lavar dinero es ilegal",
         " Esquemas ponzi con cripto son ilegales"
       ],
-      "audio": "/audio/son-ilegales.mp3",
+      "audio": "/audio/son-ilegales.mp4",
       "fuente": "Superintendencia Financiera de Colombia (SFC)"
     },
     {
@@ -67,7 +67,7 @@
           "desc": "Las plataformas pueden estar en distintos países, escapando a las leyes locales."
         }
       ],
-      "audio": "/audio/riesgos.mp3",
+      "audio": "/audio/riesgos.mp4",
       "fuente": "Superintendencia Financiera de Colombia (SFC)"
     },
     {
@@ -85,7 +85,7 @@
         "Desconfiá de promesas de ganancias garantizadas",
         "Consultá con un asesor financiero si tenés dudas"
       ],
-      "audio": "/audio/recomendaciones.mp3",
+      "audio": "/audio/recomendaciones.mp4",
       "fuente": "Buenas prácticas internacionales de seguridad cripto"
     },
     {
@@ -120,7 +120,7 @@
           "desc": "El destinatario recibe los fondos. El proceso puede tardar desde segundos hasta minutos."
         }
       ],
-      "audio": "/audio/como-funciona.mp3",
+      "audio": "/audio/como-funciona.mp4",
       "fuente": "Satoshi Nakamoto, Bitcoin Whitepaper (2008)"
     }
   ]

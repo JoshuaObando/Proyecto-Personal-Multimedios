@@ -33,10 +33,11 @@ function AudioPlayer({ src, sectionTitle }) {
   return (
     <div className={`audio-player ${isPlaying ? 'playing' : ''}`}>
       <audio
-        ref={audioRef}
-        src={src}
-        onTimeUpdate={handleTimeUpdate}
-        onEnded={handleEnded}
+      ref={audioRef}
+      src={src}
+      type="video/mp4"
+      onTimeUpdate={handleTimeUpdate}
+      onEnded={handleEnded}
       />
       <button
         className="audio-btn"
