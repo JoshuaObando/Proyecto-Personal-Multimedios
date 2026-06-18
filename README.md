@@ -18,8 +18,8 @@ React 19 + Vite
 
 ## Cómo ejecutar
 ```bash
-pnpm install
-pnpm run dev
+npm install
+npm run dev
 ```
 
 ## Capturas de pantalla
