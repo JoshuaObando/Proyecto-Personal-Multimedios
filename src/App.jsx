@@ -48,7 +48,6 @@ function App() {
       {/* HERO */}
       <header className="hero">
         <div className="hero-inner">
-          <span className="hero-badge">Guía Visual · Finanzas Digitales</span>
           <h1 className="hero-titulo">
             CRIPTO<span className="accent">ACTIVOS</span>:<br />
             LA GUÍA ESENCIAL
